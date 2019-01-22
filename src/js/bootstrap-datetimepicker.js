@@ -946,7 +946,7 @@
                 });
 
                 input.blur();
-
+                keyState = {};
                 viewDate = date.clone();
 
                 return picker;
